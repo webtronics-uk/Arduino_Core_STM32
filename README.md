@@ -108,6 +108,10 @@ User can add a STM32 based board following this [wiki](https://github.com/stm32d
 | :green_heart: | DIYMROE STM32F407VGT | *1.5.0* |  |
 | :green_heart: | FK407M1 | *1.5.0* |  |
 
+| Status | Generic STM32H7xx | Release | Comment |
+| :---: | --- | :---: | :--- |
+| :green_heart: | Toasty (https://www.tindie.com/products/webtronics/toasty-400mhz-stm32-usb-development-board) | *0.0.1* |  |
+
 | Status | 3D printer boards | Release | Comment |
 | :---: | --- | :---: | :--- |
 | :green_heart: | [ARMED V1](https://github.com/ktand/Armed) | *1.5.0* |  |

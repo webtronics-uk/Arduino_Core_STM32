@@ -110,7 +110,7 @@ User can add a STM32 based board following this [wiki](https://github.com/stm32d
 
 | Status | Generic STM32H7xx | Release | Comment |
 | :---: | --- | :---: | :--- |
-| :green_heart: | Toasty (https://www.tindie.com/products/webtronics/toasty-400mhz-stm32-usb-development-board) | *0.0.1* |  |
+| :green_heart: | [Toasty](https://www.tindie.com/products/webtronics/toasty-400mhz-stm32-usb-development-board) | *0.0.1* |  |
 
 | Status | 3D printer boards | Release | Comment |
 | :---: | --- | :---: | :--- |

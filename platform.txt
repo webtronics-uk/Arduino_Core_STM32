@@ -189,3 +189,14 @@ tools.maple_upload.path.linux64={runtime.hardware.path}/tools/linux64
 tools.maple_upload.upload.params.verbose=-d
 tools.maple_upload.upload.params.quiet=n
 tools.maple_upload.upload.pattern="{path}/{cmd}" {serial.port.file} {upload.altID} {upload.usbID} "{build.path}/{build.project_name}.bin"
+# Toasty Util
+tools.toasty_util.cmd=toasty-util
+tools.toasty_util.cmd.windows=toasty-util.exe
+#tools.toasty_util.cmd.macosx=serial_upload
+tools.toasty_util.path={runtime.tools.STM32Tools.path}/tools/win/toasty-util
+#tools.toasty_util.path.macosx={runtime.tools.STM32Tools.path}/tools/macosx
+#tools.toasty_util.path.linux={runtime.tools.STM32Tools.path}/tools/linux
+#tools.toasty_util.path.linux64={runtime.tools.STM32Tools.path}/tools/linux64
+tools.toasty_util.upload.params.verbose=-d
+tools.toasty_util.upload.params.quiet=n
+tools.toasty_util.upload.pattern="{path}/{cmd}" "{build.path}/{build.project_name}.hex"

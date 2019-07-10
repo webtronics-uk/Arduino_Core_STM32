@@ -149,10 +149,6 @@ Nucleo_144.menu.upload_method.dfuMethod.upload.protocol=2
 Nucleo_144.menu.upload_method.dfuMethod.upload.options=-g
 Nucleo_144.menu.upload_method.dfuMethod.upload.tool=stm32CubeProg
 
-Nucleo_144.menu.upload_method.toasty_util=Toasty
-Nucleo_144.menu.upload_method.toasty_util.upload.protocol=
-Nucleo_144.menu.upload_method.toasty_util.upload.tool=toasty_util
-
 ################################################################################
 # Nucleo 64 boards
 
